@@ -1,10 +1,6 @@
-
-
-
 .mundo{
 	width: 92px;
 	height: 92px;
-	margin: 50px;
     background: url("mapa.png");
     border-radius: 50%;
 	-webkit-animation: rotacion 10s infinite linear;
@@ -28,7 +24,7 @@
 .sombra{
 width: 92px;
 height: 92px;
-box-shadow: -10px 10px 50px black;
+box-shadow: -10px 10px 50px gray;
 border-radius: 50%;
 position: absolute;
 }
